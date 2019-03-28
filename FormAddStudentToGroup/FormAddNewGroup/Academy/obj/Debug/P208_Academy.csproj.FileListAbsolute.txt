@@ -1,0 +1,49 @@
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\bin\Debug\P208_Academy.exe.config
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\bin\Debug\P208_Academy.exe
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\bin\Debug\P208_Academy.pdb
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\obj\Debug\P208_Academy.csprojAssemblyReference.cache
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\obj\Debug\P208_Academy.Form1.resources
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\obj\Debug\P208_Academy.Properties.Resources.resources
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\obj\Debug\P208_Academy.csproj.GenerateResource.cache
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\obj\Debug\P208_Academy.csproj.CoreCompileInputs.cache
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\obj\Debug\P208_Academy.exe
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\obj\Debug\P208_Academy.pdb
+C:\Users\Samir D\source\repos\P208_Academy\P208_Academy\obj\Debug\P208_Academy.AddStudentForm.resources
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\bin\Debug\P208_Academy.exe.config
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\bin\Debug\P208_Academy.exe
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\bin\Debug\P208_Academy.pdb
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\obj\Debug\P208_Academy.csprojAssemblyReference.cache
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\obj\Debug\P208_Academy.Forms.AddGroupForm.resources
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\obj\Debug\P208_Academy.AddStudentForm.resources
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\obj\Debug\P208_Academy.Form1.resources
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\obj\Debug\P208_Academy.Properties.Resources.resources
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\obj\Debug\P208_Academy.csproj.GenerateResource.cache
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\obj\Debug\P208_Academy.csproj.CoreCompileInputs.cache
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\obj\Debug\P208_Academy.exe
+C:\Users\Ramo\Desktop\P208_Academy\P208_Academy\obj\Debug\P208_Academy.pdb
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\bin\Debug\P208_Academy.exe.config
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\bin\Debug\P208_Academy.exe
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\bin\Debug\P208_Academy.pdb
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\obj\Debug\P208_Academy.csprojAssemblyReference.cache
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\obj\Debug\P208_Academy.Forms.AddGroupForm.resources
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\obj\Debug\P208_Academy.AddStudentForm.resources
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\obj\Debug\P208_Academy.Form1.resources
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\obj\Debug\P208_Academy.Properties.Resources.resources
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\obj\Debug\P208_Academy.csproj.GenerateResource.cache
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\obj\Debug\P208_Academy.csproj.CoreCompileInputs.cache
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\obj\Debug\P208_Academy.exe
+C:\Users\Ramo\Desktop\AddNewGroup\P208_Academy\obj\Debug\P208_Academy.pdb
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\bin\Debug\P208_Academy.exe.config
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\bin\Debug\P208_Academy.exe
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\bin\Debug\P208_Academy.pdb
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.csprojAssemblyReference.cache
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.Forms.AddGroupForm.resources
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.AddStudentForm.resources
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.Form1.resources
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.Forms.ReportForm.resources
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.Properties.Resources.resources
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.csproj.GenerateResource.cache
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.csproj.CoreCompileInputs.cache
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.exe
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.pdb
+C:\Users\Ramo\Desktop\FormAddNewGroup\P208_Academy\obj\Debug\P208_Academy.Forms.DeleteGroupForm.resources
